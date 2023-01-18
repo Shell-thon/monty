@@ -142,6 +142,6 @@ where `<line_number>` is the line number where the instruction appears. Line num
 **Connect with Michael on LinkedIn**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/metromaniageek/)
 
-# Check out my new blog post on Medium!
+# Check out my blog post on Medium!
 
-[![Medium](https://cdn.icon-icons.com/icons2/2075/PNG/512/medium_icon_icon-icons.com_20457.png)]([![Medium](https://cdn.icon-icons.com/icons2/2075/PNG/512/medium_icon_icon-icons.com_20457.png)](https://medium.com/@example/blog-post-title))
+[![Follow me on Medium](https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/medium-512.png)](https://medium.com/@shell-terminal)
