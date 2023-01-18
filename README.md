@@ -143,6 +143,6 @@ where `<line_number>` is the line number where the instruction appears. Line num
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/metromaniageek/)
 
 # Check out my blog post on Medium!
+![image](https://user-images.githubusercontent.com/113628692/213180495-6aefd2df-bd28-4773-baf8-6ae202ca27e5.png)
 
-![preview](/root/Desktop/profile.png)
 [<img src="https://cdn.svgporn.com/logos/medium.svg" width="50" height="50">](https://medium.com/@shell-terminal)
