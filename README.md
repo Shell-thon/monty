@@ -7,7 +7,7 @@
 * [How do I use extern to share variables between source files in C?](https://www.geeksforgeeks.org/use-extern-share-variables-between-source-files-c/)
 * [Stacks and Queues in C](https://en.wikibooks.org/wiki/C_Programming/Stacks_and_Queues)
 * [Stack operations](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
-		    * [Queue operations](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
+* [Queue operations](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
 
 #### Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
@@ -144,4 +144,4 @@ where `<line_number>` is the line number where the instruction appears. Line num
 
 # Check out my blog post on Medium!
 
-[<img src="https://cdn.svgporn.com/logos/medium.svg" width="50" height="50">](https://medium.com/@shell-terminal) Follow me on Medium!
+[<img src="https://cdn.svgporn.com/logos/medium.svg" width="50" height="50">](https://medium.com/@shell-terminal) ![Alt text](../profile.png)
