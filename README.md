@@ -144,4 +144,4 @@ where `<line_number>` is the line number where the instruction appears. Line num
 
 # Check out my blog post on Medium!
 
-[![Follow me on Medium](https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/medium-512.png)](https://medium.com/@shell-terminal)
+[<img src="https://cdn.svgporn.com/logos/medium.svg" width="50" height="50">](https://medium.com/@shell-terminal) Follow me on Medium!
