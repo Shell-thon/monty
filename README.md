@@ -137,7 +137,7 @@ where `<line_number>` is the line number where the instruction appears. Line num
 ```
 
 **Follow Michael on twitter**
-### [Twitter](https://twitter.com/shellterminal) &nbsp; ![Twitter Icon](https://upload.wikimedia.org/wikipedia/en/9/9f/Twitter_bird_logo_2012.svg)
+**[@shell_terminal](https://twitter.com/shell_terminal)** <img src="https://unpkg.com/simple-icons@v3.0.1/icons/twitter.svg" width="20" height="20" />
 
 **Connect with Michael on LinkedIn**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/metromaniageek/)
