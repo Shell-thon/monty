@@ -144,4 +144,4 @@ where `<line_number>` is the line number where the instruction appears. Line num
 
 # Check out my blog post on Medium!
 
-[<img src="https://cdn.svgporn.com/logos/medium.svg" width="50" height="50">](https://medium.com/@shell-terminal) ![Alt text](../profile.png)
+[<img src="https://cdn.svgporn.com/logos/medium.svg" width="50" height="50">](https://medium.com/@shell-terminal) ![preview profile](/root/Desktop/profile.png)
