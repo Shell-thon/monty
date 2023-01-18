@@ -3,7 +3,7 @@
 
 #### Resources
 * Read or watch:
-* [oogle](https://www.google.com)
+* [Google](https://www.google.com)
 * [How do I use extern to share variables between source files in C?](https://www.geeksforgeeks.org/use-extern-share-variables-between-source-files-c/)
 * [Stacks and Queues in C](https://en.wikibooks.org/wiki/C_Programming/Stacks_and_Queues)
 * [Stack operations](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
@@ -133,6 +133,8 @@ where `<line_number>` is the line number where the instruction appears. Line num
 - an error occured
 - If you can’t malloc anymore, print the error message `Error: malloc failed`, followed by a new line, and exit with status `EXIT_FAILURE`.
 - You have to use `malloc` and `free` and are not allowed to use any other function from man malloc (`realloc`, `calloc`, …)
+
+```
 
 **Follow Michael on twitter**
 ### [Twitter](https://twitter.com/shellterminal) &nbsp; ![Twitter Icon](https://upload.wikimedia.org/wikipedia/en/9/9f/Twitter_bird_logo_2012.svg)
