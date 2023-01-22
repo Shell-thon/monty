@@ -24,6 +24,19 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives. You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work. You are not allowed to publish any content of this project. Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
+## Program List
+
+Monty Files:
+
+| File | Description
+| ------------- |:-------------:|
+| monty.h | Header file that contains all the functions and standard C library header file
+| monty.c | Contains the int main(int argc, char **argv)
+| monty_func.c | It contains the functions: ***readfile, isnumber, fork.***
+| monty_math.c | Contains functions math : ***_add, _sub, _mul, _div and others***
+| stack_func.c |  Contains functions create stack and queues: ***_push, _pall, _swat,***
+| stack_func2.c | It contains other functions for print char such as: ***_pchar, _nop*
+
 ### **Requirements**
 
 - Allowed editors: vi, vim, emacs
@@ -92,19 +105,6 @@ Here is a link to a GitHub repository that could help you making sure your error
 **# Tests**
 
 We strongly encourage you to work all together on a set of tests.
-
-## Program List
-
-Monty Files:
-
-| File | Description
-| ------------- |:-------------:|
-| monty.h | Header file that contains all the functions and standard C library header file
-| monty.c | Contains the int main(int argc, char **argv)
-| monty_func.c | It contains the functions: ***readfile, isnumber, fork.***
-| monty_math.c | Contains functions math : ***_add, _sub, _mul, _div and others***
-| stack_func.c |  Contains functions create stack and queues: ***_push, _pall, _swat,***
-| stack_func2.c | It contains other functions for print char such as: ***_pchar, _nop*
 
 **The Monty language**
 
